@@ -1,0 +1,16 @@
+C:\Users\Juliana\eclipse-workspace\swed\04\WebsiteMonitor\src\main\java\com\uas\websiteMonitor\strategy\SizeComparisonStrategy.java
+C:\Users\Juliana\eclipse-workspace\swed\04\WebsiteMonitor\src\main\java\com\uas\websiteMonitor\service\WebsiteMonitor.java
+C:\Users\Juliana\eclipse-workspace\swed\04\WebsiteMonitor\src\main\java\com\uas\websiteMonitor\strategy\ComparisonStrategy.java
+C:\Users\Juliana\eclipse-workspace\swed\04\WebsiteMonitor\src\main\java\com\uas\websiteMonitor\strategy\HtmlContentComparisonStrategy.java
+C:\Users\Juliana\eclipse-workspace\swed\04\WebsiteMonitor\src\main\java\com\uas\websiteMonitor\communication\EmailChannel.java
+C:\Users\Juliana\eclipse-workspace\swed\04\WebsiteMonitor\src\main\java\com\uas\websiteMonitor\main\Main.java
+C:\Users\Juliana\eclipse-workspace\swed\04\WebsiteMonitor\src\main\java\com\uas\websiteMonitor\observer\Observer.java
+C:\Users\Juliana\eclipse-workspace\swed\04\WebsiteMonitor\src\main\java\com\uas\websiteMonitor\model\Frequency.java
+C:\Users\Juliana\eclipse-workspace\swed\04\WebsiteMonitor\src\main\java\com\uas\websiteMonitor\communication\PushNotificationChannel.java
+C:\Users\Juliana\eclipse-workspace\swed\04\WebsiteMonitor\src\main\java\com\uas\websiteMonitor\model\Subscription.java
+C:\Users\Juliana\eclipse-workspace\swed\04\WebsiteMonitor\src\main\java\com\uas\websiteMonitor\communication\CommunicationChannel.java
+C:\Users\Juliana\eclipse-workspace\swed\04\WebsiteMonitor\src\main\java\com\uas\websiteMonitor\model\User.java
+C:\Users\Juliana\eclipse-workspace\swed\04\WebsiteMonitor\src\main\java\com\uas\websiteMonitor\model\Notification.java
+C:\Users\Juliana\eclipse-workspace\swed\04\WebsiteMonitor\src\main\java\com\uas\websiteMonitor\communication\SMSChannel.java
+C:\Users\Juliana\eclipse-workspace\swed\04\WebsiteMonitor\src\main\java\com\uas\websiteMonitor\observer\Subject.java
+C:\Users\Juliana\eclipse-workspace\swed\04\WebsiteMonitor\src\main\java\com\uas\websiteMonitor\strategy\TextContentComparisonStrategy.java

@@ -1,0 +1,12 @@
+com\uas\websiteMonitor\service\WebsiteMonitor.class
+com\uas\websiteMonitor\strategy\SizeComparisonStrategy.class
+com\uas\websiteMonitor\model\Subscription.class
+com\uas\websiteMonitor\observer\Observer.class
+com\uas\websiteMonitor\communication\CommunicationChannel.class
+com\uas\websiteMonitor\model\Frequency.class
+com\uas\websiteMonitor\observer\Subject.class
+com\uas\websiteMonitor\strategy\ComparisonStrategy.class
+com\uas\websiteMonitor\communication\SMSChannel.class
+com\uas\websiteMonitor\model\Notification.class
+com\uas\websiteMonitor\model\User.class
+com\uas\websiteMonitor\communication\EmailChannel.class
